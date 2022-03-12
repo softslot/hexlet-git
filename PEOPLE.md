@@ -1,1 +1,0 @@
-Haskeil Curry
